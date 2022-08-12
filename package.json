@@ -19,7 +19,8 @@
     "react-dom": "18.0.0",
     "react-native": "0.69.3",
     "react-native-paper": "^4.12.4",
-    "react-native-web": "0.18.7"
+    "react-native-web": "0.18.7",
+    "@expo/webpack-config": "^0.17.0"
   },
   "devDependencies": {
     "@babel/core": "^7.18.10"
